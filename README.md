@@ -2,13 +2,13 @@
 
 ProjectilePlus is a plugin that gives a multitude of new features to projectiles. Snowballs, eggs, bows or even fishing rods are now much more usable in PvP. This plugin enables projectiles to create explosions, create lightning bolts, create fire charges, teleport a player, among other PVP-enhancing functions.
 
-### Projectiles
+### Different Projectiles
 
 The ability of a certain projectile is determined by it's name. If you were to rename a snowball or a bow "explode" it would create an explosion where the arrow lands. If you were to rename a snowball "cobweb" it would create a cobweb whereever the projectile lands. Keep in mind that the item names are not case sensitive so if you rename a snowball "ExPloDe" it would still function regularly.
 
 In order to use each projectile ability, a player must have the permission attatched to that ability. Below is a list of all the abilities, the name neceesary to use them and the permission neccesary to use them.
 
-##### ProjectileNames and Functions
+#### Projectile Names and Functions
 * (Item Name) ------- (Permission) --------- (Description)
 * Explode - ProjectilePlus.explode - creates an explosion where the projectile lands
 * Lightning - ProjectilePlus.lightning - creates a lightning bolt where the projectile lands
