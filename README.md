@@ -24,5 +24,3 @@ In order to use each projectile ability, a player must have the permission attat
 * Blind - ProjectilePlus.blind - blinds the player hit by the projectile
 * Strengthen - ProjectilePlus.strengthen - gives the player hit by the projectile strength
 * Freeze - ProjectilePlus.freeze - freezes the player hit by the projectile 
-
-*
