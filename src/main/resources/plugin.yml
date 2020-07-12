@@ -1,0 +1,6 @@
+
+name: ProjectilePlus
+version: 0.0.1 #
+description: Tired of your old, boring projectiles? This is a handy plugin that enables new, cool, and interesting features for your projectiles.  
+main: com.mcip.projectileplus.ProjectilePlus
+api-version: 1.16
